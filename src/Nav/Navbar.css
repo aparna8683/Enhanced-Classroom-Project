@@ -1,0 +1,22 @@
+/* In your global CSS file */
+body {
+  background-color: #121212; /* Dark background for the body */
+  color: white; /* White text for contrast */
+}
+
+.navbar {
+  background-color: #1a1a2e; /* Dark blue color for the navbar */
+}
+
+.navbar ul {
+  color: white;
+}
+
+.navbar a {
+  color: white;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #ffcc00; /* Hover effect to make the links pop */
+}

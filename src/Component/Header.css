@@ -1,0 +1,23 @@
+.header-container {
+  display: flex;
+  align-items: flex-start;
+  padding: 20px;
+  width: 100%;
+}
+
+.left-content {
+  flex: 1;
+  padding: 20px;
+}
+
+.right-content {
+  margin-left: auto; /* Pushes the video container to the right */
+  margin-top: 20px; /* Adjust top margin as desired */
+}
+
+.video-style {
+  width: 400px; /* Set the width as needed */
+  height: auto;
+  max-height: 400px; /* Set the max height as needed */
+  border-radius: 10px;
+}
