@@ -12,7 +12,7 @@ const CoverPage = () => {
           loop
           muted
           playsInline
-          src="/CoverPage.mp4"
+          src="/CoverPage.mp4" 
         >
           Your browser does not support the video tag.
         </video>
